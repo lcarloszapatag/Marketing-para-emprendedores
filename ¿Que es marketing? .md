@@ -27,6 +27,14 @@ Olvidar al usuario cuando compre
 No comprender al usuario
 Creer marketing=Publicidad |Remarketing
 
+:smiley: Buen marketing 
+
+Comprende al cliente
+Le das buen soporte post-venta
+Le da valor al cliente
+Crea una relacion con los clientes
+No descuidas la parte tecnica 
+
 
 ![Screenshot](https://edteam-media.s3.amazonaws.com/community/original/8ba00d78-ee45-48b1-ad8e-481bc0fda695.jpg)
 
