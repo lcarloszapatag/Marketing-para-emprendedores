@@ -80,6 +80,18 @@ redes sociales
  :point_right: Test a/B
  
 :point_right:  Correo electronico
+
+sendiblue
+
+Mailchip
+
+:point_right: Lading page
+
+:point_right: Encuestas
+
+:point_right: Sporte al cliente
+
+# 6 Herramientas
  
  
  
