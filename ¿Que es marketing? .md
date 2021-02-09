@@ -18,5 +18,15 @@ Analisis de datos
 Automatizacion
 Herremientas digitales
 
+# 2.Buen y mal marketing
+:boom:
+:collision: Mal marketing 
+
+Acosar al usuario para que compre
+Olvidar al usuario cuando compre
+No comprender al usuario
+Creer marketing=Publicidad |Remarketing
+
+
 ![Screenshot](https://edteam-media.s3.amazonaws.com/community/original/8ba00d78-ee45-48b1-ad8e-481bc0fda695.jpg)
 
