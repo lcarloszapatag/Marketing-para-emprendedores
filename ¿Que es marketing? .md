@@ -18,4 +18,5 @@ Analisis de datos
 Automatizacion
 Herremientas digitales
 
-![Screenshot] (https://edteam-media.s3.amazonaws.com/community/original/8ba00d78-ee45-48b1-ad8e-481bc0fda695.jpg)
+![Screenshot](https://edteam-media.s3.amazonaws.com/community/original/8ba00d78-ee45-48b1-ad8e-481bc0fda695.jpg)
+
