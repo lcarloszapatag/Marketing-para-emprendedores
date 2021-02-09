@@ -78,3 +78,27 @@ Altas probabilidades de fracasar
   :point_right: Preguntas a tus clientes 
   
   # 5.centrate en el cliente
+  
+  :point_right:No es solo lo que vendes,sino como lo vendes
+  
+  :point_right:El marketing resuelve los problemas de los clientes,no usa a los clientes para resolver los problemas del negocio 
+  
+  :point_right:El cliente es el jefe
+  
+  :point_right: relacionate con tus clientes
+  
+  Construye una comunidad
+  
+  Busca a gente que crea en lo mismo o tenga las mismas aficiones
+  
+  Darles una forma de comunicarse
+  
+  Crea eventos e persona
+  
+  Premia a los fieles
+  
+  En general preucupate por ellos 
+  
+  :point_right:  Soporte al cliente y atncion postventa
+  
+  Construye una relacion 
