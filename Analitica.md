@@ -55,3 +55,6 @@ por lo tanto nuestro objetivo es mejorar un 20% de retencion en un mes
 La tasa de retencion
 
 Detras de este KPI estan nuestras metricas de prediccion 
+
+![Screenshot](https://pbs.twimg.com/media/ECBdOKNUcAAezmJ?format=jpg&name=large)
+
