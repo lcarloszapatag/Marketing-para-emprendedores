@@ -21,5 +21,13 @@ Libro: [los 4 pasos de la epifania(steve blank)](https://www.amazon.com/-/es/Ste
 
 Libro:[el manual para el emprendedor(steve blank)]
 
+:point_right: Un pemprendimento no es una version pequeña de una gran empresa
 
+No tien un modelo de negocio
+
+Crean un producto y rezan
+
+Altas probabilidades de fracasar 
+
+:point_right: Proceso de desarrollo de clientes 
 ![Screenshot](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff503e802-77b7-4838-96a7-38225a8d4149%2FUntitled.png?table=block&id=a39858cc-b3aa-4e54-b294-3eb95a0b007c&width=3840&userId=5294a587-7b76-4ca9-9977-fe190b6d8c93&cache=v2)
