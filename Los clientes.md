@@ -90,12 +90,18 @@ Altas probabilidades de fracasar
   
   Redes sociales
   
-  
-  
-  :point_right:¿Como saber qué quiren tus clientes?
-  
-  
-  :point_right: Preguntas a tus clientes 
+ 
+ :point_right: Preguntas a tus clientes 
+ 
+ Encuestas
+ 
+ Typeform
+ 
+ SuperyMoney
+ 
+ Jotform
+ 
+ Google forms
   
   # 5.centrate en el cliente
   
