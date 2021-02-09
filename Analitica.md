@@ -33,3 +33,25 @@ OKR(objetive and key result ,libro: [Mide lo que importa](https://www.panamerica
 
 
 https://www.youtube.com/watch?v=pKTB-W0xpX4
+
+# KPI
+
+key performance indicador(indicador clave de desempeño)
+
+depende de la estrategia
+
+:point_right: Ejemplo caso edteam
+
+Nuestras ventas estan bien,todos los meses llegan nuevos clientes
+
+sin embargos nustros ingresos no  suben
+
+Luego de investigar nuestra tasa de retencion es baja
+
+por lo tanto nuestro objetivo es mejorar un 20% de retencion en un mes
+
+¿Cual sera el KPI para esta objetivo?
+
+La tasa de retencion
+
+Detras de este KPI estan nuestras metricas de prediccion 
