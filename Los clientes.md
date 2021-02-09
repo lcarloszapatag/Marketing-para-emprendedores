@@ -41,3 +41,12 @@ Altas probabilidades de fracasar
  
  :point_right: segmento de mercado 
  
+ No le puedes vender a todo el mundo
+ 
+ El que mucho abarca poco aprieta
+ 
+ No mastiques mas de lo que puedes tragar
+ 
+ :point_right: Curva de adopcion de moore
+ 
+ ![Screenshot](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F85f1d63a-5ab7-4d57-832e-0ffeb4d33e78%2FUntitled.png?table=block&id=179dda07-ee54-437f-a169-4f8f3789fc3c&width=3840&userId=5294a587-7b76-4ca9-9977-fe190b6d8c93&cache=v2)
