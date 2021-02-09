@@ -58,3 +58,8 @@ Detras de este KPI estan nuestras metricas de prediccion
 
 ![Screenshot](https://pbs.twimg.com/media/ECBdOKNUcAAezmJ?format=jpg&name=large)
 
+#4 metricas basicas
+
+web
+redes sociales
+
