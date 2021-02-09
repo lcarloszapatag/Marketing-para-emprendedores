@@ -67,6 +67,12 @@ Altas probabilidades de fracasar
   
   :point_right: Comunica tus beneficios 
   
+  El marketing se trata de prometer
+  
+  No comuniques caracteristicas al inicio
+  
+  Comunica beneficios 
+  
   
   :point_right:¿Como saber que quieren tus clientes?
   
