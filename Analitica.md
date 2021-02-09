@@ -25,3 +25,5 @@ Producción
 :point_right:   Metricas de valor vs metricas de vanidad (libro :[El metodo lean starup](https://www.panamericana.com.co/el-metodo-lean-startup-531131/p))
 
 ![Screenshot](https://pin.it/1kFvNmb)
+
+OKR(objetive and key result ,libro: [Mide lo que importa]:(https://www.panamericana.com.co/mide-lo-que-importa-578310/p) )
