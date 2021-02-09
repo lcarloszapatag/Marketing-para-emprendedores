@@ -64,3 +64,17 @@ Altas probabilidades de fracasar
   En otras palabras,compra tu egoismo
   
   el cliente no compra un taladro,el cliente compra el agurero
+  
+  :point_right: Comunica tus beneficios 
+  
+  
+  :point_right:¿Como saber que quieren tus clientes?
+  
+  
+  
+  :point_right:¿Como saber qué quiren tus clientes?
+  
+  
+  :point_right: Preguntas a tus clientes 
+  
+  # 5.centrate en el cliente
