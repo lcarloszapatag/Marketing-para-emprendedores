@@ -21,6 +21,7 @@ ventas
 
 Producción
 
-
+# 2.¿Que medir?
+:point_right:   Metricas de valor vs metricas de vanidad (libro :[El metodo lean starup](https://www.panamericana.com.co/el-metodo-lean-startup-531131/p))
 
 ![Screenshot](https://pin.it/1kFvNmb)
