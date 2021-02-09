@@ -50,3 +50,17 @@ Altas probabilidades de fracasar
  :point_right: Curva de adopcion de moore
  
  ![Screenshot](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F85f1d63a-5ab7-4d57-832e-0ffeb4d33e78%2FUntitled.png?table=block&id=179dda07-ee54-437f-a169-4f8f3789fc3c&width=3840&userId=5294a587-7b76-4ca9-9977-fe190b6d8c93&cache=v2)
+ 
+ # 4.¿Que quieren tus clientes?
+ 
+ Libro: Como ganar amigos e influir en las personas (Dale Carnegie)
+ 
+  :point_right: Por que compran los clientes 
+  
+  El cliente no compra tu producto
+  
+  Compra el beneficio que tiene tu producto
+  
+  En otras palabras,compra tu egoismo
+  
+  el cliente no compra un taladro,el cliente compra el agurero
