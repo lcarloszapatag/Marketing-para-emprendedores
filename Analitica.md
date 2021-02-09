@@ -26,4 +26,4 @@ Producción
 
 ![Screenshot](https://pin.it/1kFvNmb)
 
-OKR(objetive and key result ,libro: [Mide lo que importa]:(https://www.panamericana.com.co/mide-lo-que-importa-578310/p) )
+OKR(objetive and key result ,libro: [Mide lo que importa](https://www.panamericana.com.co/mide-lo-que-importa-578310/p) )
