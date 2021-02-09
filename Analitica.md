@@ -124,6 +124,6 @@ Zoho Analytics
 Power Bi (Microsoft)
 
 
-
+https://pbs.twimg.com/media/EHHuG61WwAAcwNy?format=jpg&name=large
 
 
