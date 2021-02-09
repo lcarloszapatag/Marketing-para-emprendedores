@@ -27,3 +27,10 @@ Producción
 ![Screenshot](https://pin.it/1kFvNmb)
 
 OKR(objetive and key result ,libro: [Mide lo que importa](https://www.panamericana.com.co/mide-lo-que-importa-578310/p) )
+
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+Fuente: https://www.iteramos.com/pregunta/16559/-como-incrustar-un-video-en-github-readmemd-
+
+
+https://www.youtube.com/watch?v=pKTB-W0xpX4
