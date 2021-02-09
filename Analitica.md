@@ -108,6 +108,22 @@ Mailchip
  hubspot
  
  google trends
- https://bitly.com/
+
+
+
+
+https://bitly.com/
+
+:point_right:Dashboard
+
+
+Google Data Studio
+
+Zoho Analytics
+
+Power Bi (Microsoft)
+
+
+
 
 
