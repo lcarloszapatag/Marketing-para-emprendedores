@@ -70,6 +70,20 @@ Altas probabilidades de fracasar
   
   :point_right:¿Como saber que quieren tus clientes?
   
+  Helpsout
+  
+  Intercom
+  
+  Zoho Desk
+  
+  Tawk.to
+  
+  Facebook Messanger
+  
+  WhatsApp
+  
+  Redes sociales
+  
   
   
   :point_right:¿Como saber qué quiren tus clientes?
