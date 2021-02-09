@@ -93,7 +93,21 @@ Mailchip
 
 # 6 Herramientas
  
+ Google analytic
  
+ Hotjar
  
+ Kismetric
+ 
+ Hojas de calculo
+ 
+ Similarweb
+ 
+ wordpress
+ 
+ hubspot
+ 
+ google trends
+ https://bitly.com/
 
 
