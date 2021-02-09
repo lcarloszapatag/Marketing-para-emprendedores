@@ -58,8 +58,30 @@ Detras de este KPI estan nuestras metricas de prediccion
 
 ![Screenshot](https://pbs.twimg.com/media/ECBdOKNUcAAezmJ?format=jpg&name=large)
 
-#4 metricas basicas
+# 4 metricas basicas
 
 web
 redes sociales
+
+# 5  Otras metricas
+
+ :point_right: email marketing
+ 
+ Tasa de amertura
+ 
+ Tasa de rebote
+ 
+ Spam
+ 
+ Tiempo de apertura
+ 
+ Tasa de click
+ 
+ :point_right: Test a/B
+ 
+:point_right:  Correo electronico
+ 
+ 
+ 
+
 
