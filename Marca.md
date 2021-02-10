@@ -32,7 +32,17 @@ Un ataque (troll/hater) no tiene justificación objetiva.
 
 # 3 Como se construye una marca 
 
+Libro: El libro rojo de las marcas
 
+Cada acción que hagas (pequeña o grande) construye tu marca
+
+Caso: Southwest airlines (lowcost)
+
+Piensa en corto plazo pero aun mas en largo plazo
+
+El peor pecado del marketing: ser aburrido
+
+Liderezgo 
 
 # beneficios de la marca
 
