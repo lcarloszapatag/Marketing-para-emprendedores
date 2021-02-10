@@ -30,6 +30,10 @@ Diferenciar crítica de ataque de cliente insatisfecho.
 Un ataque (troll/hater) no tiene justificación objetiva.
 
 
+# 3 Como se construye una marca 
+
+
+
 # beneficios de la marca
 
 
