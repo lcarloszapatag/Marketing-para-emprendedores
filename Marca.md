@@ -22,3 +22,9 @@ Diferenciar crítica de ataque de cliente insatisfecho.
 
 
 3. Un ataque (troll/hater) no tiene justificación objetiva.
+
+
+4.Un ataque (troll/hater) no tiene justificación objetiva.
+
+
+Un ataque (troll/hater) no tiene justificación objetiva.
