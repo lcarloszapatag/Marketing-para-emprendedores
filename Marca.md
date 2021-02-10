@@ -42,7 +42,13 @@ Piensa en corto plazo pero aun mas en largo plazo
 
 El peor pecado del marketing: ser aburrido
 
-Liderezgo 
+Liderazgo 
+
+La publicidad es el impuesto que pagas por ser aburrido
+
+Para no verse aburridos las empresas le pagan a un famoso (influencer)
+
+O puedes ser tú el influencer
 
 # beneficios de la marca
 
