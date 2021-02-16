@@ -1,7 +1,3 @@
-# Marketing-para-emprendedores
-Crea estrategias de marketing efectivas sin los millones de dólares que gastan las grandes empresas.
-Welcome to the Marketing-para-emprendedores wiki!
-
 # Marketing para emprendedores
 
 ## Crea estrategias de marketing efectivas sin los millones de dólares que gastan las grandes empresas.
